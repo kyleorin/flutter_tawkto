@@ -1,2 +1,7 @@
 # This is a generated file; do not edit or check into version control.
-flutter_inappwebview=/Users/confidencewangoho/.pub-cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/
+flutter_inappwebview=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview-6.1.0+1/
+flutter_inappwebview_android=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview_android-1.1.0/
+flutter_inappwebview_ios=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview_ios-1.1.0+1/
+flutter_inappwebview_macos=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview_macos-1.1.0+1/
+flutter_inappwebview_web=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview_web-1.1.0/
+flutter_inappwebview_windows=/Users/kyleorin/.pub-cache/hosted/pub.dev/flutter_inappwebview_windows-0.1.0/
